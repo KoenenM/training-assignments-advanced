@@ -577,6 +577,7 @@ public abstract class Texture implements CloneableSmartAsset, Savable, Cloneable
         rVal.setName(name);
         return rVal;
     }
+    
 
     /**
      * @deprecated Use {@link Texture#clone()} instead.
